@@ -1,4 +1,4 @@
-name: Testing stuff
+name: Check Skip Commit
 
 on:
   push:
